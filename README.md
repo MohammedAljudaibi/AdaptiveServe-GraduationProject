@@ -2,7 +2,8 @@
 # AdaptiveServe (Graduation Project)
 **AdaptiveServe** is an AI-powered table tennis training system that adapts its serves based on the player’s skill. It uses computer vision to track the ball and machine learning models to adjust serve parameters in real time.
 
-https://github.com/user-attachments/assets/89842be4-c784-4e5e-91f3-ef17d6ec2bda.mp4
+https://github.com/user-attachments/assets/852a487f-3bc0-4e23-a4a9-6fa43c61f11d
+
 ----------
 
 ## Overview
